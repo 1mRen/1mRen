@@ -2,11 +2,11 @@
 
 <img src="https://i.pinimg.com/originals/cb/71/a0/cb71a099b3ca06a3797f32f4af4c9011.gif" />
 
-Yow! My name is <b>Marc Lawrence C. Magadan</b>. I am from University of Cebu taking <b>BS Information Technology.</b>
+Yow! My name is <b>Marc Lawrence C. Magadan</b>. A working scholar in University of Cebu taking <b>BS Information Technology.</b>
 
 I have huge interest in cybersecurity and coding. Currently studying Intro to Cybersecurty, OOP, and Data struct.
 
-Currently a working scholar at University of Cebu, and a Freelancer. 
+I also do freelancing stuffs😉. 
 
 <b>Skills:</b> <br>Web Development | Project Management | Community Management 
 
