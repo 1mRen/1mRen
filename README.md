@@ -8,11 +8,17 @@ I have huge interest in cybersecurity and coding. Currently studying Intro to Cy
 
 Currently a working scholar at University of Cebu, and a Freelancer. 
 
-<b>Skills:</b>
-Web Development | Project Management | Community Management 
+<b>Skills:</b> <br>Web Development | Project Management | Community Management 
 
-<b>Languages:</b> <p></p>
+<b>Languages:</b><br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> 
+
+-------------------------------------------
+### Socials: <br> <a href="https://www.instagram.com/m_lwren"><img src="https://img.shields.io/badge/1mRen-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+------------------------------------------- 
+
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{1mRen}/count.svg)
 
 <!--
 **1mRen/1mRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
