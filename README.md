@@ -2,7 +2,7 @@
 
 [![@1mRen](https://github.com/1mRen/1mRen/blob/main/assets/Marc%20Lawrence%20Magadan.gif?raw=true)](https://www.facebook.com/idzty/)
 
-Yow! My name is <b>Marc Lawrence C. Magadan</b>. A working scholar in University of Cebu taking <b>BS Information Technology.</b>
+Yow! I am <b>Marc Lawrence C. Magadan</b>. A working scholar in University of Cebu taking <b>BS Information Technology.</b>
 
 I have huge interest in cybersecurity and coding. Currently studying Intro to Cybersecurity, OOP, and Data struct.
 
