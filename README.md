@@ -4,7 +4,7 @@
 
 Yow! I am <b>Marc Lawrence C. Magadan</b>. A working scholar in University of Cebu taking <b>BS Information Technology.</b>
 
-I have huge interest in cybersecurity and coding. Currently studying Intro to Cybersecurity, OOP, and Data struct.
+I have huge interest in cybersecurity and coding.
 
 I also do <b>Freelance</b>😉.
 
