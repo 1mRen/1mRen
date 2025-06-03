@@ -2,14 +2,14 @@
 
 [![@1mRen](https://github.com/1mRen/1mRen/blob/main/assets/Marc%20Lawrence%20Magadan.gif?raw=true)](https://www.facebook.com/idzty/)
 
-Yow! I am <b>Marc Lawrence C. Magadan</b>. A working scholar in University of Cebu taking <b>BS Information Technology.</b>
+Yow! I am <b>Marc Lawrence C. Magadan</b>. A student in University of Cebu taking <b>BS Information Technology.</b>
 
-I have huge interest in cybersecurity and coding.
+I have huge interest in cybersecurity, Mobile, and Web Development.
 
-I also do <b>Freelance</b>😉.
+I also do <b>Freelance</b>.
 
 ### Skills: 
-Web Development | Project Management | Community Management 
+Project Management | Community Management 
 
 
 ### Languages:<br>
