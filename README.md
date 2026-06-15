@@ -1,7 +1,5 @@
 ## Welcome!
 
-[![@1mRen](https://github.com/1mRen/1mRen/blob/main/assets/Marc%20Lawrence%20Magadan.gif?raw=true)](https://www.facebook.com/idzty/)
-
 Yow! I am <b>Marc Lawrence C. Magadan</b>. I graduated <b>BS Information Technology.</b>
 
 I have huge interest in cybersecurity, Mobile, and Web Development.
